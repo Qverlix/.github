@@ -1,9 +1,3 @@
-<p align="right"> 
-   <img src="https://github.com/user-attachments/assets/0cb7bf3c-b762-4750-84a8-ea821703797e" alt="discord" width="250">
-</p>
-
-<br></br>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5106dc0-addd-431b-9de0-1acfb8770c84" alt="Qverlix" width="450">
 </p>
